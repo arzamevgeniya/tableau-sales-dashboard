@@ -13,5 +13,5 @@
 
 🖼️ Скриншоты дашборда
 
-![Dashboard Preview](Dashboard- Tableau.png)
+![Dashboard Preview](Tableau-Sales-Dashboard.png)
 
