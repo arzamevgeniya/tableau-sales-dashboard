@@ -13,12 +13,5 @@
 🖼️ Скриншоты
 Превью дашборда:
 
-![Dashboard Preview](screenshots DASHBOARD.png)
-![Dashboard Preview](screenshots dashboard_01.png)
-![Dashboard Preview](screenshots dashboard_02.png)
-![Dashboard Preview](screenshots dashboard_03.png)
-![Dashboard Preview](screenshots dashboard_04.png)
-![Dashboard Preview](screenshots dashboard_05.png)
-![Dashboard Preview](screenshots dashboard_06.png)
-![Dashboard Preview](screenshots dashboard_07.png)
-![Dashboard Preview](screenshots dashboard_08.png)
+![Dashboard Preview]()
+
