@@ -14,5 +14,5 @@
 🖼️ Скриншоты
 Превью дашборда:
 
-![Dashboard Preview]()
+![Dashboard Preview](screenshots DASHBOARD.png)
 
