@@ -11,8 +11,7 @@
 Моя онлайн-версия проекта:
 Просмотреть в Tableau Public: [📺View on Tableau Public](https://public.tableau.com/app/profile/evgeniya.arzamastseva/viz/Tableau_17599865199150/Dashboard1?publish=yes)
 
-🖼️ Скриншоты
-Превью дашборда:
+🖼️ Скриншоты дашборда
 
 ![Dashboard Preview](screenshots DASHBOARD.png)
 
