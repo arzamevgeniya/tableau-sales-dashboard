@@ -20,5 +20,5 @@
 
 🖼️ Скриншот дашборда
 
-![Dashboard Preview](Tableau-Sales-Dashboard.png)
+![Dashboard Preview](PostgreSQL-project -SQL-Shell - 01.png )
 
